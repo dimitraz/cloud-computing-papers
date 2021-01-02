@@ -10,15 +10,24 @@ Cloud computing term paper which explores the use of Amazon Services Appsync and
 
 [Corresponding Github Repo](https://github.com/dimitraz/jukebox)
 
+![](./Images/appsync.png)
+![](./Images/jukebox.png)
+
 ### [Chaos Engineering and Automating chaos](<./Year 4/Cloud_Chaos.pdf>)
 
 Cloud Computing term paper which explores the fairly new discipline of Chaos Engineering and automating chaos using Chaos Toolkit within a Kubernetes cluster on GCP
 
 [Corresponding Slide deck](<./Year 4/Cloud_Chaos_Presentation.pdf>)
 
+![](./Images/chaos.png)
+
 ### [Exploring Kubernetes Security](<./Year 4/Security_Term_Paper.pdf>)
 
 Network security term paper which explores various security vulnerabilities in On-Prem Kubernetes applications
+
+[Corresponding Slide deck](<./Year 4/Security_Term_Presentation.pdf>)
+
+![](./Images/security.png)
 
 ### [Containerisation with Docker](<./Year 4/Cloud_Docker.pdf>)
 
@@ -44,6 +53,8 @@ Research paper on Visible Light Communication and CSK Modulation
 
 [Corresponding "educational animation"](https://www.youtube.com/watch?v=fTRp8kpO-K4)
 
+![](./Images/lifi.png)
+
 ## Year 2
 
 ### [High Availability with HAProxy and Keepalived](<./Year 2/Cloud_HA.pdf>)
@@ -51,3 +62,5 @@ Research paper on Visible Light Communication and CSK Modulation
 Exploring the concepts of redundancy, reliability and scalability by setting up a high availability load balancing architecture on a cluster of raspberry pis, using HAProxy and Keepalived.
 
 [Corresponding Repo](https://github.com/dimitraz/high-availability-poc)
+
+![](./Images/ha.png)
